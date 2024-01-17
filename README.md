@@ -54,6 +54,8 @@ In this project there are 2 pages :
 - Overview
 - Apps
 
+![](GooglePS.png)
+
 You can interact with report here [Novypro](https://www.novypro.com/project/google-play-store-2)
 
 ## 8. Conclusion & Recommendation
